@@ -1,0 +1,18 @@
+# ninja log v6
+1065	3885	7535362560876056	CMakeFiles/Maze.dir/Maze_autogen/mocs_compilation.cpp.obj	8088816e1f068f2f
+37	180	7535507000635570	E:/maze/Maze/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	d79be6350ea4a2e8
+318	648	7535506768164385	E:/maze/Maze/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/Maze_autogen/mocs_compilation.cpp	dadf4eef522ec42b
+318	648	7535506768164385	Maze_autogen/timestamp	dadf4eef522ec42b
+318	648	7535506768164385	Maze_autogen/mocs_compilation.cpp	dadf4eef522ec42b
+318	648	7535506768164385	E:/maze/Maze/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/Maze_autogen/timestamp	dadf4eef522ec42b
+535	2571	7535277601211679	CMakeFiles/Maze.dir/main.cpp.obj	95395088c6080d63
+648	5208	7535506771463078	CMakeFiles/Maze.dir/mainwindow.cpp.obj	e7aac4899d162e25
+559	1522	7535337499423557	CMakeFiles/Maze.dir/mazegenerator.cpp.obj	a2a5c47e75b3f750
+5208	7978	7535506817055891	Maze.exe	47cff58d5e5fa747
+536	3342	7498441260145004	CMakeFiles/Maze.dir/gamehall.cpp.obj	22b7ecd6c5fadfcc
+226	1269	7535602028255495	build.ninja	aea12b81df090bf5
+660	4952	7535506771572797	CMakeFiles/Maze.dir/MazeGame.cpp.obj	4f97cdd5f77a1e18
+494	2126	7535281738348746	CMakeFiles/Maze.dir/properties.cpp.obj	bda0c7857565b1f3
+605	1428	7535420705928228	CMakeFiles/Maze.dir/astarsearch.cpp.obj	b3cdb035c4fcacfb
+671	2971	7535506771682498	CMakeFiles/Maze.dir/mapgenerateoptions.cpp.obj	bf26e17cff8ebef8
+797	2989	7535276692319944	CMakeFiles/Maze.dir/saveinfowidget.cpp.obj	c8189432e5ed1db3
